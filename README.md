@@ -1,3 +1,3 @@
-# angular-a2egun
+# angular
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-a2egun)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-tolu)
